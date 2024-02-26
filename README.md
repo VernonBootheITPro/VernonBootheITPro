@@ -8,7 +8,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/VernonBootheITPro/osTicket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/VernonB954/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/VernonBootheITPro/osticket---Post-Install-Config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/VernonB954/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/VernonB954/configure-ad)
