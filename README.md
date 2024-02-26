@@ -11,7 +11,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/VernonBootheITPro/osticket---Post-Install-Config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/VernonB954/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/VernonB954/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/VernonBootheITPro/Configure-AD)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/VernonB954/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
