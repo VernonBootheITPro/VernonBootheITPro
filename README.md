@@ -16,8 +16,8 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/VernonBootheITPro/Azure-Network-Portocols)
 
  - <b>DNS & File Sharing Labs</b>
-  - [Network File Shares And Permissions](https://github.com/VernonBootheITPro/Network-File-Shares-And-Permissions)
-  - [Build-Intuition-For-DNS](https://github.com/VernonBootheITPro/Build-Intuition-For-DNS)
+   - [Network File Shares And Permissions](https://github.com/VernonBootheITPro/Network-File-Shares-And-Permissions)
+   - [Build-Intuition-For-DNS](https://github.com/VernonBootheITPro/Build-Intuition-For-DNS)
 
   
 <h2>🤳Connect with me:</h2>
