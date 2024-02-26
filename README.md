@@ -10,10 +10,16 @@
   - [osTicket: Prerequisites and Installation](https://github.com/VernonBootheITPro/osTicket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/VernonBootheITPro/osticket---Post-Install-Config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/VernonBootheITPro/osTicket--Lifecycle--Intake-Through-Resolution)
+    
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/VernonBootheITPro/Configure-AD)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/VernonBootheITPro/Azure-Network-Portocols)
+ 
+  - <b>DNS Labs</b>
+  [Network File Shares And Permissions](https://github.com/VernonBootheITPro/Network-File-Shares-And-Permissions)
+  [Build-Intuition-For-DNS](https://github.com/VernonBootheITPro/Build-Intuition-For-DNS)
 
+  
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
