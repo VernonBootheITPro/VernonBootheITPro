@@ -23,7 +23,6 @@
 <h2>🤳Connect with me:</h2>
 
 <div>
-  Would you like to <a href="https://www.linkedin.com/in/vernonboothe" target="_blank">connect</a>?
+  Find me on <a href="https://www.linkedin.com/in/vernonboothe" target="_blank">LinkedIn</a>?
 </div>
 
-[linkedin]: https://linkedin.com/in/vernonboothe
