@@ -2,7 +2,7 @@
 
 - 🧠 Constantly improving my skillset, GRC is becoming my passion.
 
-- 🗃 Activel pursuing Certifications: Sec+ Net+ AWS Cloud Practitioner
+- 🗃 Actively pursuing Certifications: Sec+ Net+ AWS Cloud Practitioner
   
 <h2>👨‍💻 Information Technology Projects:</h2>
 
